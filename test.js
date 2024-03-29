@@ -1,3 +1,2 @@
-let para = document.querySelector("p");
-let p_attributes = para.attributes;
-console.log(p_attributes);
+const colors = ["red", "green", "blue", "yellow", "orange", "blue", "pink"];
+console.log(colors.lastIndexOf("blue"));
